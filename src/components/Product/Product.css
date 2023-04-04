@@ -31,6 +31,7 @@ margin-left: 14px;
     margin-top: 5px;
 }
 .btn-cart{
+    height: 35px;
     position: absolute;
     width: 100%;
     background: #FFE0B3;
